@@ -1,0 +1,20 @@
+name: Latest Medium Posts Workflow
+
+on:
+  schedule:
+    # รันอัตโนมัติทุก 1 ชั่วโมง
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@wisanu.pljk"
+          max_post_count: 5
