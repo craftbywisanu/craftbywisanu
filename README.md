@@ -69,6 +69,10 @@ Bridging native mobile experiences with resilient backend architectures.
 - **CI/CD Pipelines:** GitHub Actions, Jenkins, CircleCI
 - **Monitoring & Metrics:** Grafana
 
+### ✍️ Recent Medium Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 📊 GitHub Activity & Statistics
