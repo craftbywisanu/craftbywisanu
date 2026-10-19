@@ -71,6 +71,8 @@ Bridging native mobile experiences with resilient backend architectures.
 
 ### ✍️ Recent Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Swift] ลองใช้ Interceptor เข้ามาช่วยเตรียมค่าซ้ำ ๆ ก่อนการเรียก API กันดูมั้ย](https://medium.com/q-chang/swift-%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89-interceptor-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%8B%E0%B9%89%E0%B8%B3-%E0%B9%86-%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81-api-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B9%E0%B8%A1%E0%B8%B1%E0%B9%89%E0%B8%A2-dc6cce3b1873?source=rss-3b1303f3977d------2)
+- [[Swift] เรามา Request API แบบ Async Await ด้วย Alamofire กันเถอะ](https://medium.com/q-chang/swift-%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%B2-request-api-%E0%B9%81%E0%B8%9A%E0%B8%9A-async-await-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-alamofire-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-2c19315ce072?source=rss-3b1303f3977d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
